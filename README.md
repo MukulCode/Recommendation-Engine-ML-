@@ -1,5 +1,6 @@
 # Recommendation-Engine-ML-
-The recommendation engine, uses information about 1,80,000 products and  each product will have multiple features named
+The recommendation engine
+uses information about 1,80,000 products and  each product will have multiple features named
 
 1. Title of the product.
 2. Brand of the product.
