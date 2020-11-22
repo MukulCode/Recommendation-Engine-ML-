@@ -10,4 +10,5 @@ uses information about 1,80,000 products and  each product will have multiple fe
 Data Source: Amazon.com
 
 
+
 Machine Learning project which analyses the image and text by using Keras, TensorFlow, Convolutional Neural Network, Bag of words, word2vec, TF-IDF, Natural Language Processing(NLP) to recommend you the best out of the stack of amazon's dataset.
